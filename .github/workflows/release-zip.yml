@@ -12,7 +12,7 @@ jobs:
 
       - name: Create zip
         run: |
-        zip -r project.zip ./*
+          zip -r project.zip ./*
       
       - name: Create / update release
         uses: softprops/action-gh-release@v1
