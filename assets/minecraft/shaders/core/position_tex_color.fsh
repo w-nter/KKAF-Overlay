@@ -1,0 +1,2 @@
+#version 150
+layout(std140) uniform DynamicTransforms{mat4 ModelViewMat;vec4 ColorModulator;vec3 ModelOffset;mat4 TextureMat;float LineWidth;};uniform sampler2D Sampler0;in vec2 texCoord0;in vec4 vertexColor;out vec4 fragColor;void main(){vec4 color=texture(Sampler0,texCoord0)*vertexColor;if(color.a==0.)discard;if(color.r==37./255.&&color.g==40./255.&&color.b==30./255.)discard;else if(color.r==38./255.&&color.g==26./255.&&color.b==28./255.)color=vec4(1,1,1,0.125);fragColor=color*ColorModulator;}

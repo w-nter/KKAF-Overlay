@@ -1,0 +1,684 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/netherite_ingot"
+        },
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/bronze_medal"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/burger_grill"
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/burger_large"
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/burger_menu"
+                }
+            },
+            {
+                "threshold": 5,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/burger_roof"
+                }
+            },
+            {
+                "threshold": 6,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/burger_sign"
+                }
+            },
+            {
+                "threshold": 7,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/burger_sign"
+                }
+            },
+            {
+                "threshold": 8,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/chicken_statue"
+                }
+            },
+            {
+                "threshold": 10,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/cats/cat_tina"
+                }
+            },
+            {
+                "threshold": 11,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/cats/cat_thor"
+                }
+            },
+            {
+                "threshold": 12,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/cats/cat_scott"
+                }
+            },
+            {
+                "threshold": 13,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/crown_brazier"
+                }
+            },
+            {
+                "threshold": 14,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/doghouse"
+                }
+            },
+            {
+                "threshold": 15,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/cats/cat_noctis"
+                }
+            },
+            {
+                "threshold": 16,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/cats/cat_eloise"
+                }
+            },
+            {
+                "threshold": 17,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/shared/sunbed"
+                }
+            },
+            {
+                "threshold": 18,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/flamingo_head"
+                }
+            },
+            {
+                "threshold": 19,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/gdl_crate_1"
+                }
+            },
+            {
+                "threshold": 20,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/gdl_crate_2"
+                }
+            },
+            {
+                "threshold": 21,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/gdl_crate_3"
+                }
+            },
+            {
+                "threshold": 22,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/gdl_fan"
+                }
+            },
+            {
+                "threshold": 23,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/gdl_sign"
+                }
+            },
+            {
+                "threshold": 24,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/gdl_thruster"
+                }
+            },
+            {
+                "threshold": 25,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/gdl_thruster_2"
+                }
+            },
+            {
+                "threshold": 26,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/gold_medal"
+                }
+            },
+            {
+                "threshold": 27,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/inflatable_a"
+                }
+            },
+            {
+                "threshold": 28,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/inflatable_b"
+                }
+            },
+            {
+                "threshold": 29,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/lilo_blue"
+                }
+            },
+            {
+                "threshold": 30,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/lilo_yellow"
+                }
+            },
+            {
+                "threshold": 31,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/sandcastle"
+                }
+            },
+            {
+                "threshold": 32,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/silver_medal"
+                }
+            },
+            {
+                "threshold": 33,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/spatula"
+                }
+            },
+            {
+                "threshold": 34,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/spatula_rack"
+                }
+            },
+            {
+                "threshold": 35,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/shared/coconut"
+                }
+            },
+            {
+                "threshold": 36,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/shared/coconut_drink"
+                }
+            },
+            {
+                "threshold": 37,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/shared/coconut_drink_empty"
+                }
+            },
+            {
+                "threshold": 38,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/shared/coconut_open"
+                }
+            },
+            {
+                "threshold": 39,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/shared/tiki_blender"
+                }
+            },
+            {
+                "threshold": 40,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/shared/tiki_flowers_1"
+                }
+            },
+            {
+                "threshold": 41,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/shared/tiki_mask_1"
+                }
+            },
+            {
+                "threshold": 42,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/shared/tiki_mask_2"
+                }
+            },
+            {
+                "threshold": 43,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/shared/tiki_plant"
+                }
+            },
+            {
+                "threshold": 44,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/shared/tiki_roof"
+                }
+            },
+            {
+                "threshold": 45,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/shared/tiki_stool"
+                }
+            },
+            {
+                "threshold": 46,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/shared/tiki_sunbed"
+                }
+            },
+            {
+                "threshold": 47,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/shared/tiki_torch"
+                }
+            },
+            {
+                "threshold": 48,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/shared/totem_cat"
+                }
+            },
+            {
+                "threshold": 49,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/shared/totem_chicken"
+                }
+            },
+            {
+                "threshold": 50,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/shared/totem_founder"
+                }
+            },
+            {
+                "threshold": 51,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/shared/totem_tinkerer"
+                }
+            },
+            {
+                "threshold": 52,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/shared/totem_zombie"
+                }
+            },
+            {
+                "threshold": 53,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/techno_memorial"
+                }
+            },
+            {
+                "threshold": 54,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/crocodile_eye"
+                }
+            },
+            {
+                "threshold": 55,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/taco_grill"
+                }
+            },
+            {
+                "threshold": 56,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/taco_roof"
+                }
+            },
+            {
+                "threshold": 57,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/taco_sign"
+                }
+            },
+            {
+                "threshold": 58,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/taco_topper"
+                }
+            },
+            {
+                "threshold": 59,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/tacotruck_front"
+                }
+            },
+            {
+                "threshold": 60,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/tacotruck_window"
+                }
+            },
+            {
+                "threshold": 61,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/slushie_sign"
+                }
+            },
+            {
+                "threshold": 62,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/slushie"
+                }
+            },
+            {
+                "threshold": 63,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/taco_menu"
+                }
+            },
+            {
+                "threshold": 64,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/floodlight"
+                }
+            },
+            {
+                "threshold": 65,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/floodlight_down"
+                }
+            },
+            {
+                "threshold": 66,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/camera"
+                }
+            },
+            {
+                "threshold": 67,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/nox_scott_sign"
+                }
+            },
+            {
+                "threshold": 68,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/food_menu_1"
+                }
+            },
+            {
+                "threshold": 69,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/food_menu_2"
+                }
+            },
+            {
+                "threshold": 70,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/popcorn_cart"
+                }
+            },
+            {
+                "threshold": 71,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/postcard_sign_1"
+                }
+            },
+            {
+                "threshold": 72,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/postcard_sign_2"
+                }
+            },
+            {
+                "threshold": 73,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/postcard_sign_3"
+                }
+            },
+            {
+                "threshold": 74,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/postcard_sign_4"
+                }
+            },
+            {
+                "threshold": 75,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/postcard_sign_5"
+                }
+            },
+            {
+                "threshold": 76,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/postcard_sign_6"
+                }
+            },
+            {
+                "threshold": 77,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/popcorn"
+                }
+            },
+            {
+                "threshold": 78,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/till"
+                }
+            },
+            {
+                "threshold": 79,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/slushie_blue_bundle"
+                }
+            },
+            {
+                "threshold": 80,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/slushie_red_bundle"
+                }
+            },
+            {
+                "threshold": 80,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/firecracker"
+                }
+            },
+            {
+                "threshold": 81,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/postcard_sign_7"
+                }
+            },
+            {
+                "threshold": 82,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/podium_bronze"
+                }
+            },
+            {
+                "threshold": 83,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/podium_silver"
+                }
+            },
+            {
+                "threshold": 84,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/podium_gold"
+                }
+            },
+            {
+                "threshold": 85,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/hologram_projector"
+                }
+            },
+            {
+                "threshold": 86,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/pipe_wrench"
+                }
+            },
+            {
+                "threshold": 87,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/elevator_sign"
+                }
+            },
+            {
+                "threshold": 88,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/construction_sign"
+                }
+            },
+            {
+                "threshold": 89,
+                "model": {
+                    "type": "model",
+                    "model": "custom:bmccaward"
+                }
+            },
+            {
+                "threshold": 90,
+                "model": {
+                    "type": "model",
+                    "model": "custom:mvp_trophy"
+                }
+            },
+            {
+                "threshold": 91,
+                "model": {
+                    "type": "model",
+                    "model": "custom:award_pvp"
+                }
+            },
+            {
+                "threshold": 92,
+                "model": {
+                    "type": "model",
+                    "model": "custom:move_trophy"
+                }
+            },
+            {
+                "threshold": 93,
+                "model": {
+                    "type": "model",
+                    "model": "custom:team_trophy"
+                }
+            },
+            {
+                "threshold": 94,
+                "model": {
+                    "type": "model",
+                    "model": "custom:award_favorite"
+                }
+            },
+            {
+                "threshold": 95,
+                "model": {
+                    "type": "model",
+                    "model": "custom:award_falloff"
+                }
+            },
+            {
+                "threshold": 96,
+                "model": {
+                    "type": "model",
+                    "model": "custom:award_clip"
+                }
+            }
+        ]
+    }
+}

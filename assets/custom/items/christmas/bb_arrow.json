@@ -1,0 +1,28 @@
+{
+	"credit": "by Lighted Technology [https://www.youtube.com/c/LightedTechnology/]",
+	"textures": {
+		"0": "model_textures/panel_arrow",
+		"particle": "model_textures/panel_arrow"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 15],
+			"to": [16, 16, 16],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 15]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 1], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [0, 15, 16, 16], "rotation": 180, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -30.5, 0],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	}
+}

@@ -1,0 +1,61 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "block/h/halloween_2",
+		"particle": "block/h/halloween_2"
+	},
+	"elements": [
+		{
+			"from": [-15.5, -15.5, 8],
+			"to": [31.5, 31.5, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.5, 0.5, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 5.875, 5.875], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"south": {"uv": [0, 0, 5.875, 5.875], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [63, 34, 0],
+			"translation": [0, 1, -1],
+			"scale": [0.37891, 0.37891, 0.37891]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [63, 34, 0],
+			"translation": [0, 1, -1],
+			"scale": [0.37891, 0.37891, 0.37891]
+		},
+		"firstperson_righthand": {
+			"rotation": [3, 112, -13],
+			"translation": [9.5, 0, -5.75],
+			"scale": [0.35547, 0.35547, 0.35547]
+		},
+		"firstperson_lefthand": {
+			"rotation": [3, 112, -13],
+			"translation": [9.5, 0, -5.75],
+			"scale": [0.35547, 0.35547, 0.35547]
+		},
+		"ground": {
+			"translation": [0, 4.25, 0],
+			"scale": [0.28906, 0.28906, 0.28906]
+		},
+		"gui": {
+			"rotation": [30, -158, 0],
+			"translation": [-0.25, -0.25, 0],
+			"scale": [0.56992, 0.56992, 0.56992]
+		},
+		"head": {
+			"translation": [0, -30.5, 0],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"translation": [0, -3.25, -7.5]
+		}
+	}
+}

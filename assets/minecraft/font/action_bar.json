@@ -1,0 +1,47 @@
+ {
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                " ": 4
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:font/bossbar/elytra_durability.png",
+            "chars": [
+                ""
+            ],
+            "ascent": 0,
+            "height": 21
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:font/bossbar/elytra_durability_struck.png",
+            "chars": [
+                ""
+            ],
+            "ascent": 0,
+            "height": 21
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:font/bossbar/rocket_counter.png",
+            "chars": [
+                ""
+            ],
+            "ascent": 0,
+            "height": 21
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:font/bossbar/hunter_vision.png",
+            "chars": [
+                "㊇"
+            ],
+            "ascent": 0,
+            "height": 21
+        }
+
+    ]
+}

@@ -1,0 +1,50 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "model_textures/confetti",
+		"particle": "model_textures/confetti"
+	},
+	"elements": [
+		{
+			"from": [0, 0, -16],
+			"to": [30, 0, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 8, -1]},
+			"faces": {
+				"north": {"uv": [0, 0, 15, 15], "texture": "#0"},
+				"up": {"uv": [0, 0, 15, 15], "texture": "#0"},
+				"down": {"uv": [15, 15, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-16, 0.25, -7],
+			"to": [14, 0.25, 23],
+			"rotation": {"angle": -45, "axis": "y", "origin": [-1, 8.25, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 15, 15], "texture": "#0"},
+				"up": {"uv": [0, 0, 15, 15], "texture": "#0"},
+				"down": {"uv": [15, 15, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 0.5, 2],
+			"to": [30, 0.5, 32],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [15, 8.5, 17]},
+			"faces": {
+				"east": {"uv": [0, 0, 15, 15], "texture": "#0"},
+				"up": {"uv": [0, 0, 15, 15], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [15, 15, 16, 16], "rotation": 270, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [0.75, 1.25, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"head": {
+			"translation": [0, -30.25, -1.5],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	}
+}

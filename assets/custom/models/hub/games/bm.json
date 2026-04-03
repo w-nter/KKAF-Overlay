@@ -1,0 +1,28 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"11": "model_textures/games/bm",
+		"particle": "model_textures/games/bb"
+	},
+	"elements": [
+		{
+			"from": [-8, 0, 4],
+			"to": [16, 16, 4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, 4]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#11"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#11"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [12, -17.75, -8.75],
+			"scale": [3.2, 3.2, 3.2]
+		}
+	}
+}

@@ -1,0 +1,43 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "1": "item/custom/bow",
+        "layer0": "item/custom/bow",
+        "particle": "item/custom/bow"
+    },
+
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ -32, 260, -40 ],
+            "translation": [ -1, 10, -8 ],
+            "scale": [ 1.5, 1.5, 1.5 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ -32, -100, 40 ],
+            "translation": [ -1, 10.5, -6.75 ],
+            "scale": [ 1.5, 1.5, 1.5 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 8, -84, 25 ],
+            "translation": [ 1.13, 7.45, -6.87 ],
+            "scale": [ 1.5, 1.5, 1.5 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 90, -25 ],
+            "translation": [ 1.13, 7.7, -5.87 ],
+            "scale": [ 1.5, 1.5, 1.5 ]
+        },
+        "ground": {
+            "translation": [ -8, 8, 0 ],
+            "scale": [ 1.5, 1.5, 1.5 ]
+        },
+        "gui": {
+            "translation": [ -8.75, 9, 0 ],
+            "scale": [ 2, 2, 2 ]
+        },
+        "fixed": {
+            "translation": [ -6.25, 6, 0 ],
+            "scale": [ 1.5, 1.5, 1.5 ]
+        }
+    }
+}

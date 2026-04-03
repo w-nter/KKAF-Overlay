@@ -1,0 +1,141 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "custom:font/settings.png",
+      "chars": [""],
+      "ascent": 25,
+      "height": 256
+    },
+	{
+		"type": "bitmap",
+		"file": "custom:font/grid_5x7_break.png",
+		"ascent": 5,
+		"height": 127,
+		"chars": [""]
+	},
+	{
+		"type": "bitmap",
+		"file": "custom:font/spectate.png",
+		"ascent": 33,
+		"height": 256,
+		"chars": [""]
+	},
+	{
+	  "type":"bitmap",
+	  "file":"custom:font/header.png",
+	  "chars":[""],
+	  "ascent":33,
+	  "height":36
+	},
+	{
+	  "type":"bitmap",
+	  "file":"custom:font/kit_menu.png",
+	  "chars":[""],
+	  "ascent":5,
+	  "height":127
+	},
+	{
+	  "type":"bitmap",
+	  "file":"custom:font/kiosk.png",
+	  "chars":[""],
+	  "ascent":5,
+	  "height":127
+	},
+	{
+	  "type":"bitmap",
+	  "file":"custom:font/cosmetic_profiles.png",
+	  "chars":[""],
+	  "ascent":5,
+	  "height":127
+	},
+	{
+	  "type":"bitmap",
+	  "file":"custom:font/games_menu.png",
+	  "chars":[""],
+	  "ascent":5,
+	  "height":127
+	},
+	{
+	  "type":"bitmap",
+	  "file":"custom:font/dome_menu.png",
+	  "chars":[""],
+	  "ascent":5,
+	  "height":127
+	},
+	{
+	  "type":"bitmap",
+	  "file":"custom:font/grid_small.png",
+	  "chars":[""],
+	  "ascent":5,
+	  "height":127
+	},
+	{
+      "type":"bitmap",
+	  "file":"custom:font/1x3.png",
+	  "chars":[""],
+	  "ascent":-121,
+	  "height":65
+	},
+	{
+      "type":"bitmap",
+	  "file":"custom:font/0.png",
+	  "chars":[""],
+	  "ascent":-121,
+	  "height":17
+	},
+	{
+      "type":"bitmap",
+	  "file":"custom:font/0_low.png",
+	  "chars":[""],
+	  "ascent":-202,
+	  "height":17
+	},
+	{
+      "type":"bitmap",
+	  "file":"custom:font/0_wide.png",
+	  "chars":[""],
+	  "ascent":-121,
+	  "height":17
+	},
+	{
+      "type":"bitmap",
+	  "file":"custom:font/spawnpoint.png",
+	  "chars":["⑳"],
+	  "ascent":37,
+	  "height":255
+	},
+	{
+	  "type":"bitmap",
+	  "file":"custom:font/kitsel.png",
+	  "chars":[""],
+	  "ascent":26,
+	  "height":26
+        },
+	{
+	  "type":"bitmap",
+	  "file":"custom:font/gui_backseater_small.png",
+	  "chars":[""],
+	  "ascent":26,
+	  "height":26
+        },
+        {
+          "type":"bitmap",
+          "file":"custom:font/tooltips/consumable.png",
+           "chars":[""],
+           "ascent":7,
+           "height":9
+     },{"type":"bitmap","file":"custom:font/tooltips/ranged_weapon.png","chars":[""],"ascent":7,"height":9},{"type":"bitmap","file":"custom:font/tooltips/projectile.png","chars":[""],"ascent":7,"height":9},
+
+        {
+		"type": "bitmap",
+		"file": "custom:font/navigator.png",
+		"ascent": 33,
+		"height": 256,
+		"chars": ["⣿"]
+	},
+	{"type":"bitmap","file":"custom:font/tooltips/heart.png","chars":[""],"ascent":7,"height":9},
+	{"type":"bitmap","file":"custom:font/tooltips/radius.png","chars":[""],"ascent":7,"height":8}
+
+  ]
+}

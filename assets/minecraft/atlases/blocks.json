@@ -1,0 +1,2358 @@
+{
+    "sources": [
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/pad_purple"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/pad_orange"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/techno_memorial"
+        },
+	        {
+            "type": "single",
+            "resource": "minecraft:model_textures/games/bb"
+        },
+	        {
+            "type": "single",
+            "resource": "minecraft:model_textures/games/sg"
+        },
+	        {
+            "type": "single",
+            "resource": "minecraft:model_textures/decision_dome/railroad_rush_anim"
+        },
+	        {
+            "type": "single",
+            "resource": "minecraft:model_textures/decision_dome/railroad_rush"
+        },
+	        {
+            "type": "single",
+            "resource": "minecraft:model_textures/decision_dome/extras"
+        },
+	        {
+            "type": "single",
+            "resource": "minecraft:model_textures/decision_dome/railroad_rush_text"
+        },
+	        {
+            "type": "single",
+            "resource": "minecraft:model_textures/games/sb"
+        },
+	        {
+            "type": "single",
+            "resource": "minecraft:model_textures/games/rsr"
+        },
+	        {
+            "type": "single",
+            "resource": "minecraft:model_textures/games/pkw"
+        },
+	        {
+            "type": "single",
+            "resource": "minecraft:model_textures/games/pkt"
+        },
+	        {
+            "type": "single",
+            "resource": "minecraft:model_textures/games/hitw"
+        },
+	        {
+            "type": "single",
+            "resource": "minecraft:model_textures/games/ar"
+        },
+	        {
+            "type": "single",
+            "resource": "minecraft:model_textures/games/tgttos"
+        },
+	        {
+            "type": "single",
+            "resource": "minecraft:model_textures/railroadrush/head_3"
+        },
+	        {
+            "type": "single",
+            "resource": "minecraft:model_textures/games/bbf"
+        },
+	        {
+            "type": "single",
+            "resource": "minecraft:model_textures/games/bm"
+        },
+	        {
+            "type": "single",
+            "resource": "minecraft:model_textures/games/gr"
+        },
+	        {
+            "type": "single",
+            "resource": "minecraft:model_textures/games/md"
+        },
+	        {
+            "type": "single",
+            "resource": "minecraft:model_textures/games/rrr"
+        },
+	        {
+            "type": "single",
+            "resource": "minecraft:model_textures/games/sot"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/panel_arena"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/confetti"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/cake"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/mcc_figure_cake"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/p21_misc"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/panel_arrow"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/podcast/music_1"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/christmas/present1_handheld"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/christmas/present2_handheld"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/christmas/present3_handheld"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/christmas/nutcracker"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/christmas/present4_handheld"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/christmas/present5_handheld"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/christmas/present6_handheld"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/christmas/present7_handheld"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/christmas/present8_handheld"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/christmas/present9_handheld"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/christmas/present10_handheld"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/christmas/drum"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/christmas/bunch_2"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/christmas/bunch_1"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/ball_of_glowing"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/ball_of_fireresistance"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/ball_of_resistance"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/ball_of_levitation"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/ball_of_milk"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/ball_of_regeneration"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/ball_of_speed"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/long_timed_ball_of_harming"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/long_timed_ball_of_darkness"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/long_timed_ball_of_weakness"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/long_timed_ball_of_wither"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/long_timed_ball_of_miningfatigue"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/long_timed_ball_of_levitation"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/short_timed_ball_of_blindness"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/short_timed_ball_of_poison"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/short_timed_ball_of_slowness"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/spark_of_escaping"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/spark_of_invisibility"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/spark_of_levitation"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/spark_of_regeneration"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/spark_of_speed"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/spark_of_shrinking"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/spark_of_slowfalling"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/spark_of_strength"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/spark_of_dolphinsgrace"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/spark_of_haste"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/spark_of_leaping"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/spark_of_poison"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/settings"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/spectate_main"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/kit/baller"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/kit/flanker"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/kit/gadgeteer"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/kit/healer"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/kit/scrapper"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/kit/sharpshooter"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/kit/trickster"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/kit_selection"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/podcast/music_2"
+        },
+		
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/podcast/music_3"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/telegraph"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/birthdays"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/candle"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/decision_dome/ace_race_text"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/decision_dome/ace_race-sheet"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/decision_dome/battle_box_text"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/decision_dome/battle_box-sheet"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/decision_dome/build_mart_text"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/decision_dome/build_mart-sheet"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/decision_dome/game_rim"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/decision_dome/grid_runners_text"
+        },
+		{
+            "type": "single",
+		"resource": "minecraft:model_textures/decision_dome/grid_runners-sheet"
+        },
+        {
+            "type": "single",
+		"resource": "minecraft:model_textures/decision_dome/hitw-sheet"
+        },
+        {
+            "type": "single",
+		"resource": "minecraft:model_textures/decision_dome/hitw_text"
+        },
+        {
+            "type": "single",
+		"resource": "minecraft:model_textures/decision_dome/md-sheet"
+        },
+        {
+            "type": "single",
+		"resource": "minecraft:model_textures/decision_dome/md_text"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/decision_dome/mystery_game-sheet"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/decision_dome/parkour_tag-sheet"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/decision_dome/pkt_text"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/decision_dome/revealing_game-sheet"
+        },
+	    {
+            "type": "single",
+		"resource": "minecraft:model_textures/decision_dome/bingo-sheet"
+        },
+	    {
+            "type": "single",
+		"resource": "minecraft:model_textures/decision_dome/bingo_text"
+        },
+		{
+            "type": "single",
+		"resource": "minecraft:model_textures/decision_dome/bingohalloween_text"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/1"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/podium"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hologram_anim"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/decision_dome/rsr_text"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/decision_dome/rsr-sheet"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/decision_dome/sky_battle_text"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/decision_dome/sky_battle-sheet"
+        },
+        {
+            "type": "single",
+		"resource": "minecraft:model_textures/decision_dome/sot-sheet"
+        },
+		{
+            "type": "single",
+		"resource": "minecraft:model_textures/elevator_sign"
+        },
+		{
+            "type": "single",
+		"resource": "minecraft:model_textures/offhand_1"
+        },
+		{
+            "type": "single",
+		"resource": "minecraft:model_textures/helmet_model"
+        },
+		{
+            "type": "single",
+		"resource": "minecraft:model_textures/helmet_model"
+        },
+		{
+            "type": "single",
+		"resource": "minecraft:model_textures/hub/credit-bg"
+        },
+		{
+            "type": "single",
+		"resource": "minecraft:model_textures/hub/credit-text"
+        },
+		{
+            "type": "single",
+		"resource": "minecraft:model_textures/hub/cred-s1"
+        },
+		{
+            "type": "single",
+		"resource": "minecraft:model_textures/hub/cred-ty"
+        },
+		{
+            "type": "single",
+		"resource": "minecraft:model_textures/hub/bp_tent"
+        },
+		{
+            "type": "single",
+		"resource": "minecraft:model_textures/hub/bp_tent3"
+        },
+		{
+            "type": "single",
+		"resource": "minecraft:model_textures/hub/barstool"
+        },
+		{
+            "type": "single",
+		"resource": "minecraft:model_textures/hub/leaderboard_anim"
+        },
+		{
+            "type": "single",
+		"resource": "minecraft:model_textures/hub/leaderboard_trophy"
+        },
+		{
+            "type": "single",
+		"resource": "minecraft:model_textures/mcc_coin"
+        },
+        {
+            "type": "single",
+		"resource": "minecraft:model_textures/decision_dome/sot_text"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/decision_dome/tgttosawabh_text"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/decision_dome/tgttos-sheet"
+        },
+				{
+            "type": "single",
+            "resource": "minecraft:model_textures/decision_dome/pkw_text"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/decision_dome/pkw-sheet"
+        },
+				{
+            "type": "single",
+            "resource": "minecraft:model_textures/decision_dome/sg_text"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/decision_dome/sg-sheet"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/pkw/frog_bronze"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/pkw/frog_gold"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/pkw/frog_outline"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/pkw/frog_silver"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/pkw/frog_stone"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/pkw/lantern_red"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/pkw/lantern_stone"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/pkw/lantern_white"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/pkw/mcc_banner"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/pkw/medal"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/pkw/medal_bronze"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/pkw/medal_gold"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/pkw/medal_outline"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/pkw/medal_silver"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/pkw/medal_stone"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/pkw/scroll"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/pkw/sign_bonus"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/pkw/sign_easy"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/pkw/sign_hard"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/pkw/sign_mcc"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/pkw/sign_medium"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/pad_red"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/speed_pad"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/pad_blue"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/pad_teal"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/speaker"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/torch_tall"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/bench"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/bin"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/table"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/chair"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/projector"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/turtle"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/gr/key"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/gr/gr_button"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/gr/golf_club"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/gr/targets"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/gr/gr_placeable"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/gr/gr_placeable2"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/gr/aqua_block"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/gr/blue_block"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/gr/green_block"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/gr/lime_block"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/gr/orange_block"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/gr/pink_block"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/gr/red_block"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/gr/yellow_block"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/elytra"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/aquajet"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/checkpoint"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/ar/tangled_vine"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/ar/vine_particle"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/ar/turtle"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/ar/turtle_blink"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/trident"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/dolphin"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/bench"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/aquajetbubbles"
+		},
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/dodgebolt/red_rabbits_balloon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/dodgebolt/orange_balloon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/dodgebolt/yellow_balloon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/dodgebolt/lime_balloon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/dodgebolt/green_balloon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/dodgebolt/cyan_balloon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/dodgebolt/aqua_balloon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/dodgebolt/blue_balloon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/dodgebolt/purple_balloon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/dodgebolt/pink_balloon"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/dodgebolt/team_hats"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/dodgebolt/team_hands"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/dodgebolt/redrabbits_head"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/dodgebolt/orangeocelots_head"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/dodgebolt/yellowyaks_head"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/dodgebolt/limellamas_head"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/dodgebolt/greengeckos_head"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/dodgebolt/cyancoyotes_head"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/dodgebolt/aquaaxolotls_head"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/dodgebolt/bluebats_head"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/dodgebolt/purplepandas_head"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/dodgebolt/pinkparrots_head"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/lobby/red_podium"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/lobby/team_podiums"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/lobby/orange_podium"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/lobby/yellow_podium"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/lobby/lime_podium"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/lobby/green_podium"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/lobby/aqua_podium"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/lobby/cyan_podium"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/lobby/blue_podium"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/lobby/purple_podium"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/lobby/pink_podium"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/sot/altar_red"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/sot/altar_blue"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/sot/altar_green"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/sot/altar_gold"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/sot/pillar"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/ar/finish"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/rsr/rocket_launcher"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/rsr/rocket_launcher_e"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/rsr/updraft"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/rsr/warnings"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/sg/airdrop"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/sg/airdrop_top"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/sg/chest"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/sg/coin_crate"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/podcast/screen_base"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/podcast/screen_anim"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/podcast/seating_1"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/podcast/burger_diner_1"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/podcast/burger_diner_2"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/podcast/props_kitchen"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/sg/grave"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/bar"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/doghouse"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/bar"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/merch"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/merch_2"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/merch_shirt"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/gdl_1"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/gdl_2"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/clothing_2"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/podcast/screen_static"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/dodgebolt/supportbanner_sign"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/gdl_anim"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/gdl_fan"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/grill_smoke"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/firecracker"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/misc7"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/misc2"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/taco_item"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/refreshments"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/pkw/props_pkw_3"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/pkw/props_pkw_2"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/pkw/props_pkw"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/podium"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hologram_anim"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/easteregg"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/block/egg1"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/block/egg2"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/block/egg3"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/block/egg4"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/block/egg5"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/block/egg6"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/block/egg7"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/block/egg8"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/block/egg9"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/block/egg10"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/block/slingshot"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/block/slingshot2"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/1"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/podcast/2"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/pkw/pkw_signs"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/pkw/pkw_frog"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/lantern"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/mcc_statue"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/medals"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/misc3"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/misc4"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/misc5"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/puddle_anim"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/soul_lantern"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/thruster_anim"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/torch_decor"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/camera"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/propellor_sheet"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/cats/cat_faces"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/cats/cat_tail_eloise"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/cats/cat_tail_noctis"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/cats/cat_tail_scott"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/cats/cat_tail_thor"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/cats/cats_1"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/md/heater_anim"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/md/heater_anim_2"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/md/heater_anim_3"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/md/heater_anim_4"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/md/ice_melt_anim"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/md/meltdown_1"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/md/meltdown_1_enemy"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/md/meltdown_2"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/md/meltdown_2_enemy"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/md/packed_ice"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/md/rotating_light"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/md/puddle_anim"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/md/rotating_light_light"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/md/telepickaxe"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/md/telepickaxe_empty"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/dd/extras"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/dd/coin_bg"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/dd/coin_text"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/dd/coin_arrow"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/decision_dome/remix_sign"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/decision_dome/modifier_screen/screen"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/tiki1"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/nox_scott_sign_a"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/nox_scott_sign_b"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/nox_scott_sign_b_e"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/nox_scott_sign_a_e"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/fruit"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/sign_fan"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/sign_base"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/decals_1"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/decals_2"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/popcorn_item"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/burger_item"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/coconut_item"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/hub/fries_item"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/gridkey"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:item/frost_bow/frost_arrow"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:item/frost_bow/frost_bow"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:item/frost_bow/frost_bow_pulling_0"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:item/frost_bow/frost_bow_pulling_1"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:item/frost_bow/frost_bow_pulling_2"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:item/map_tablet"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:item/spectate/aqua_horses"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:item/spectate/aqua_horses_empty"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:item/spectate/blue_bats"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:item/spectate/blue_bats_empty"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:item/spectate/cyan_creepers"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:item/spectate/cyan_creepers_empty"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:item/spectate/green_guardians"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:item/spectate/green_guardians_empty"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:item/spectate/lime_llamas"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:item/spectate/lime_llamas_empty"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:item/spectate/orange_ocelots"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:item/spectate/orange_ocelots_empty"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:item/spectate/pink_parrots"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:item/spectate/pink_parrots_empty"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:item/spectate/purple_pandas"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:item/spectate/purple_pandas_empty"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:item/spectate/red_rabbits"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:item/spectate/red_rabbits_empty"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:item/spectate/yellow_yaks"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:item/spectate/yellow_yaks_empty"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:block/sg_crate"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/md/held_red"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/md/held_orange"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/md/held_yellow"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/md/held_lime"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/md/held_green"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/md/held_cyan"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/md/held_aqua"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/md/held_blue"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/md/held_purple"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/md/held_pink"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:item/map_tablet"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:item/firebomb"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:item/megachicken"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/block/halloween/pumpkins_2"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/block/halloween/pumpkins"
+        },
+		{
+            "type": "single",
+            "resource": "mcc:island_cosmetics/faction/hat/supporter/red_display"
+        },
+		{
+            "type": "single",
+            "resource": "mcc:island_cosmetics/faction/hat/supporter/orange_display"
+        },
+		{
+            "type": "single",
+            "resource": "mcc:island_cosmetics/faction/hat/supporter/yellow_display"
+        },
+		{
+            "type": "single",
+            "resource": "mcc:island_cosmetics/faction/hat/supporter/lime_display"
+        },
+		{
+            "type": "single",
+            "resource": "mcc:island_cosmetics/faction/hat/supporter/green_display"
+        },
+		{
+            "type": "single",
+            "resource": "mcc:island_cosmetics/faction/hat/supporter/cyan_display"
+        },
+		{
+            "type": "single",
+            "resource": "mcc:island_cosmetics/faction/hat/supporter/aqua_display"
+        },
+		{
+            "type": "single",
+            "resource": "mcc:island_cosmetics/faction/hat/supporter/blue_display"
+        },
+		{
+            "type": "single",
+            "resource": "mcc:island_cosmetics/faction/hat/supporter/purple_display"
+        },
+		{
+            "type": "single",
+            "resource": "mcc:island_cosmetics/faction/hat/supporter/pink_display"
+        },
+		{
+            "type": "single",
+            "resource": "mcc:island_cosmetics/faction/hat/supporter/red"
+        },
+		{
+            "type": "single",
+            "resource": "mcc:island_cosmetics/faction/hat/supporter/orange"
+        },
+		{
+            "type": "single",
+            "resource": "mcc:island_cosmetics/faction/hat/supporter/yellow"
+        },
+		{
+            "type": "single",
+            "resource": "mcc:island_cosmetics/faction/hat/supporter/lime"
+        },
+		{
+            "type": "single",
+            "resource": "mcc:island_cosmetics/faction/hat/supporter/green"
+        },
+		{
+            "type": "single",
+            "resource": "mcc:island_cosmetics/faction/hat/supporter/cyan"
+        },
+		{
+            "type": "single",
+            "resource": "mcc:island_cosmetics/faction/hat/supporter/aqua"
+        },
+		{
+            "type": "single",
+            "resource": "mcc:island_cosmetics/faction/hat/supporter/blue"
+        },
+		{
+            "type": "single",
+            "resource": "mcc:island_cosmetics/faction/hat/supporter/purple"
+        },
+		{
+            "type": "single",
+            "resource": "mcc:island_cosmetics/faction/hat/supporter/pink"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_interface/practice/mode_swap_challenge"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_interface/practice/mode_swap_practice"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_interface/practice/next"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_interface/practice/next_small"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_interface/practice/previous"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_interface/practice/previous_small"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_interface/practice/repeater_course"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_interface/practice/repeater_off"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_interface/practice/repeater_section"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_interface/practice/restart_course"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_interface/practice/timer_paused"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_interface/practice/timer_started"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_interface/practice/timer_stopped"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_interface/accept"
+        },		
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/spectate/skull"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_interface/exit"
+        },
+		{
+            "type": "single",
+            "resource": "custom:font/icons/acerace"
+        },
+		{
+            "type": "single",
+            "resource": "custom:font/icons/battlebox"
+        },
+		{
+            "type": "single",
+            "resource": "custom:font/icons/crown"
+        },
+		{
+            "type": "single",
+            "resource": "custom:font/icons/dodgebolt"
+        },
+		{
+            "type": "single",
+            "resource": "custom:font/icons/house"
+        },
+		{
+            "type": "single",
+            "resource": "custom:font/icons/parkourtag"
+        },
+		{
+            "type": "single",
+            "resource": "custom:font/icons/parkourwarrior"
+        },
+		{
+            "type": "single",
+            "resource": "custom:font/icons/rocketspleefrush"
+        },
+		{
+            "type": "single",
+            "resource": "custom:font/icons/star"
+        },
+		{
+            "type": "single",
+            "resource": "custom:font/icons/coin"
+        },
+		{
+            "type": "single",
+            "resource": "custom:font/icons/decisiondome"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/sumo"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_items/long_timed_ball_of_harming"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/info"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/info_blue"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/cancel"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/back"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_interface/back"
+        },
+	    {
+            "type": "single",
+            "resource": "minecaft:model_textures/h/broom"
+        },
+		{
+            "type": "single",
+            "resource": "minecaft:model_textures/h/broom-sheet"
+        },
+		{
+            "type": "single",
+            "resource": "minecaft:model_textures/h/bucket"
+        },
+		{
+            "type": "single",
+            "resource": "minecaft:model_textures/h/bucket-sheet"
+        },
+		{
+            "type": "single",
+            "resource": "minecaft:model_textures/h/clown"
+        },
+		{
+            "type": "single",
+            "resource": "minecaft:model_textures/h/clown-sheet"
+        },
+		{
+            "type": "single",
+            "resource": "minecaft:model_textures/h/devilhons"
+        },
+		{
+            "type": "single",
+            "resource": "minecaft:model_textures/h/fork"
+        },
+		{
+            "type": "single",
+            "resource": "minecaft:model_textures/h/mallet"
+        },
+		{
+            "type": "single",
+            "resource": "minecaft:model_textures/h/mallet-sheet"
+        },
+		{
+            "type": "single",
+            "resource": "minecaft:model_textures/h/pumpkin"
+        },
+		{
+            "type": "single",
+            "resource": "minecaft:model_textures/h/pumpking"
+        },
+		{
+            "type": "single",
+            "resource": "minecaft:model_textures/h/scythe-sheet"
+        },
+		{
+            "type": "single",
+            "resource": "minecaft:model_textures/h/skull"
+        },
+		{
+            "type": "single",
+            "resource": "minecaft:model_textures/h/skull-sheet"
+        },
+		{
+            "type": "single",
+            "resource": "minecaft:model_textures/h/witchhat"
+        },
+		{
+            "type": "single",
+            "resource": "minecaft:model_textures/h/witchhat-sheet"
+        },
+		{
+            "type": "single",
+            "resource": "minecaft:model_textures/h/locked-sheet"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/md/iceblock_friendly1"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/md/iceblock_friendly2"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/md/iceblock_friendly3"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/md/iceblock_friendly4"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/christmas/panel"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/christmas/candycane1"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/christmas/candycane2"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/christmas/panel_snowflake"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/christmas/panel_star"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/christmas/panel_bells"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/christmas/toy_chicken"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/christmas/christmas_lights"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/christmas/winter_misc"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/christmas/winter_misc_3"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/christmas/winter_misc3_3rp"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/christmas/winter_misc_4"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/snowbolt/candycaneballoon"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/snowbolt/elfballoon"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/snowbolt/gingerbreadballoon"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/snowbolt/gloveaqua1"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/snowbolt/gloveblue1"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/snowbolt/glovegreen1"
+        },
+	
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/snowbolt/glovemint1"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/snowbolt/gloveorange"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/snowbolt/glovepink1"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/snowbolt/glovepurple1"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/snowbolt/glovered1"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/snowbolt/gloveteal1"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/snowbolt/gloveyellow1"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/snowbolt/mistletoeballoon"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/snowbolt/penguinballoon"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/snowbolt/presentballoon"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/snowbolt/reindeerballoon"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/snowbolt/santaballoon"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/snowbolt/scarfaqua"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/snowbolt/scarfblue"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/snowbolt/scarfgreen"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/snowbolt/scarfmint"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/snowbolt/scarforange"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/snowbolt/scarfpink"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/snowbolt/scarfpurple"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/snowbolt/scarfred"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/snowbolt/scarfteal"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/snowbolt/scarfyellow"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/snowbolt/turkeyballoon"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/snowbolt/yetiballoon"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:model_textures/christmas/winter_misc_5"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/settings/chat_bubble_blue"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/first/00000"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/first/00001"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/first/00010"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/first/00011"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/first/00100"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/first/00101"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/first/00110"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/first/00111"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/first/01000"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/first/01001"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/first/01010"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/first/01011"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/first/01100"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/first/01101"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/first/01110"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/first/01111"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/first/10000"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/first/10001"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/first/10010"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/first/10011"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/first/10100"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/first/10101"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/first/10110"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/first/10111"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/first/11000"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/first/11001"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/first/11010"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/first/11011"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/first/11100"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/first/11101"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/first/11110"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/first/11111"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/second/00000"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/second/00001"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/second/00010"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/second/00011"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/second/00100"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/second/00101"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/second/00110"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/second/00111"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/second/01000"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/second/01001"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/second/01010"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/second/01011"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/second/01100"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/second/01101"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/second/01110"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/second/01111"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/second/10000"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/second/10001"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/second/10010"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/second/10011"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/second/10100"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/second/10101"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/second/10110"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/second/10111"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/second/11000"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/second/11001"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/second/11010"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/second/11011"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/second/11100"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/second/11101"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/second/11110"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/teams/second/11111"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/toggle/toggle_on"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/toggle/toggle_off"
+        },
+        {
+            "type": "single",
+            "resource": "custom:font/icons/buildmart"
+        },
+        {
+            "type": "single",
+            "resource": "custom:font/icons/gridrunners"
+        },
+        {
+            "type": "single",
+            "resource": "custom:font/icons/holeinthewall"
+        },
+        {
+            "type": "single",
+            "resource": "custom:font/icons/meltdown"
+        },
+        {
+            "type": "single",
+            "resource": "custom:font/icons/railroadrush"
+        },
+        {
+            "type": "single",
+            "resource": "custom:font/icons/sandsoftime"
+        },
+        {
+            "type": "single",
+            "resource": "custom:font/icons/survivalgames"
+        },
+        {
+            "type": "single",
+            "resource": "custom:font/icons/skybattle"
+        },
+        {
+            "type": "single",
+            "resource": "custom:font/icons/tgttos"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/select/10000"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/select/01000"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/select/00100"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/select/00010"
+        },
+        {
+            "type": "single",
+            "resource": "custom:bmcc_interface/generic/select/00001"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_interface/button/button"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_interface/button/gray"
+        },
+		{
+            "type": "single",
+            "resource": "custom:bmcc_interface/button/pressed"
+        }
+    ]
+}

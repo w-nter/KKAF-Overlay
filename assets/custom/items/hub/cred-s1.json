@@ -1,0 +1,27 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "minecraft:model_textures/hub/cred-s1"
+	},
+	"elements": [
+		{
+			"from": [7, 0, -16],
+			"to": [7, 24, 32],
+			"faces": {
+				"north": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"down": {"uv": [0, 0, 0, 16], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [0, -90, 0],
+			"translation": [0, -20.25, 0],
+			"scale": [2.25, 2.25, 2.25]
+		}
+	}
+}

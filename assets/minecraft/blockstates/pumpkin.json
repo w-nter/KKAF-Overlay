@@ -1,0 +1,96 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/pumpkin"
+      },
+      {
+        "model": "minecraft:block/pumpkin",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/pumpkin",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/pumpkin",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/pumpkin_warts"
+      },
+      {
+        "model": "minecraft:block/pumpkin_warts",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/pumpkin_warts",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/pumpkin_warts",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/pumpkin_tall"
+      },
+      {
+        "model": "minecraft:block/pumpkin_tall",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/pumpkin_tall",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/pumpkin_tall",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/pumpkin_red"
+      },
+      {
+        "model": "minecraft:block/pumpkin_red",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/pumpkin_red",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/pumpkin_red",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/pumpkin_yellow"
+      },
+      {
+        "model": "minecraft:block/pumpkin_yellow",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/pumpkin_yellow",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/pumpkin_yellow",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/pumpkin_green"
+      },
+      {
+        "model": "minecraft:block/pumpkin_green",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/pumpkin_green",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/pumpkin_green",
+        "y": 270
+      }
+    ]
+  }
+}

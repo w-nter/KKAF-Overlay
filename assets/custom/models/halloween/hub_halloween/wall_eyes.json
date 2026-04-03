@@ -1,0 +1,28 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "minecraft:model_textures/block/halloween/eyes",
+		"particle": "minecraft:model_textures/block/halloween/eyes"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 15.9],
+			"to": [16, 16, 15.9],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#0"},
+				"west": {"uv": [0, 9.25, 0, 11.25], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -30.5, 0],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	}
+}

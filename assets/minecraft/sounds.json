@@ -1,0 +1,11 @@
+{
+  "block": {
+    "exposed_weathered_copper": {
+      "step": "minecraft:block.purpur_block.step",
+      "place": "minecraft:block.purpur_block.place",
+      "break": "minecraft:block.purpur_block.break",
+      "hit": "minecraft:block.purpur_block.hit",
+      "fall": "minecraft:block.purpur_block.fall"
+    }
+  }
+}

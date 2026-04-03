@@ -1,0 +1,19 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/blue_candle"
+        },
+        "entries": [
+            {
+                "threshold": 34,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hub/birthday_hat"
+                }
+            }
+        ]
+    }
+}

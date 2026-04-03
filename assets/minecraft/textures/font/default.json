@@ -1,0 +1,135 @@
+{
+
+    "providers": [
+        {
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "⅚"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+        {
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "ⴅ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+        {
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "₾"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+        {
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "ⴝ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+        {
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "ⴛ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+        {
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "⅛"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+        {
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "⅞"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+        {
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "Ⴞ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+        {
+            "file": "invisiblecharacters:pixel.png",
+            "chars": [
+              "Ⴔ"
+            ],
+            "height": 8,
+            "ascent": -2147483648,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/acerace.png",
+            "chars": ["\uE001"],
+            "height": 70,
+            "ascent": 70,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/battlebox.png",
+            "chars": ["\uE002"],
+            "height": 73,
+            "ascent": 73,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/dodgebolt.png",
+            "chars": ["\uE003"],
+            "height": 72,
+            "ascent": 72,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/gridrunners.png",
+            "chars": ["\uE004"],
+            "height": 57,
+            "ascent": 57,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/parkourtag.png",
+            "chars": ["\uE005"],
+            "height": 75,
+            "ascent": 75,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/rocketspleefrush.png",
+            "chars": ["\uE001"],
+            "height": 60,
+            "ascent": 60,
+            "type": "bitmap"
+        },
+		{
+            "file": "custom:font/skybattle.png",
+            "chars": ["\uE001"],
+            "height": 75,
+            "ascent": 75,
+            "type": "bitmap"
+        }
+    ]
+}

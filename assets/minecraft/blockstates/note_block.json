@@ -1,0 +1,320 @@
+{
+    "hey:": "chatgpt helped ALOT in this file! I made all of the code from the instruments harp to basedrum, but chatgpt did the rest!",
+    "variants": {
+        "instrument=harp,note=0": {
+            "model": "block/note_block"
+        },
+        "instrument=harp,note=1": {
+            "model": "block/tentacle/tentacle_1"
+        },
+        "instrument=harp,note=2": {
+            "model": "block/tentacle/tentacle_2"
+        },
+        "instrument=harp,note=3": {
+            "model": "block/tentacle/tentacle_3"
+        },
+        "instrument=harp,note=4": {
+            "model": "block/tentacle/tentacle_4"
+        },
+        "instrument=harp,note=5": {
+            "model": "block/arrow"
+        },
+        "instrument=harp,note=6": {
+            "model": "block/arrow1"
+        },
+        "instrument=harp,note=7": {
+            "model": "block/arrow2"
+        },
+        "instrument=harp,note=8": {
+            "model": "block/arrow3"
+        },
+        "instrument=harp,note=9": {
+            "model": "block/note_block"
+        },
+        "instrument=harp,note=10": {
+            "model": "block/note_block"
+        },
+        "instrument=harp,note=11": {
+            "model": "block/note_block"
+        },
+        "instrument=harp,note=12": {
+            "model": "block/note_block"
+        },
+        "instrument=harp,note=13": {
+            "model": "block/note_block"
+        },
+        "instrument=harp,note=14": {
+            "model": "block/note_block"
+        },
+        "instrument=harp,note=15": {
+            "model": "block/note_block"
+        },
+        "instrument=harp,note=16": {
+            "model": "block/note_block"
+        },
+        "instrument=harp,note=17": {
+            "model": "block/note_block"
+        },
+        "instrument=harp,note=18": {
+            "model": "block/note_block"
+        },
+        "instrument=harp,note=19": {
+            "model": "block/note_block"
+        },
+        "instrument=harp,note=20": {
+            "model": "block/note_block"
+        },
+        "instrument=harp,note=21": {
+            "model": "block/note_block"
+        },
+        "instrument=harp,note=22": {
+            "model": "block/note_block"
+        },
+        "instrument=harp,note=23": {
+            "model": "block/note_block"
+        },
+        "instrument=harp,note=24": {
+            "model": "block/note_block"
+        },
+        "instrument=bass,note=0": {
+            "model": "block/note_block"
+        },
+        "instrument=bass,note=1": {
+            "model": "block/note_block"
+        },
+        "instrument=bass,note=2": {
+            "model": "block/note_block"
+        },
+        "instrument=bass,note=3": {
+            "model": "block/note_block"
+        },
+        "instrument=bass,note=4": {
+            "model": "block/note_block"
+        },
+        "instrument=bass,note=5": {
+            "model": "block/note_block"
+        },
+        "instrument=bass,note=6": {
+            "model": "block/note_block"
+        },
+        "instrument=bass,note=7": {
+            "model": "block/note_block"
+        },
+        "instrument=bass,note=8": {
+            "model": "block/note_block"
+        },
+        "instrument=bass,note=9": {
+            "model": "block/note_block"
+        },
+        "instrument=bass,note=10": {
+            "model": "block/note_block"
+        },
+        "instrument=bass,note=11": {
+            "model": "block/note_block"
+        },
+        "instrument=bass,note=12": {
+            "model": "block/note_block"
+        },
+        "instrument=bass,note=13": {
+            "model": "block/note_block"
+        },
+        "instrument=bass,note=14": {
+            "model": "block/note_block"
+        },
+        "instrument=bass,note=15": {
+            "model": "block/note_block"
+        },
+        "instrument=bass,note=16": {
+            "model": "block/note_block"
+        },
+        "instrument=bass,note=17": {
+            "model": "block/note_block"
+        },
+        "instrument=bass,note=18": {
+            "model": "block/note_block"
+        },
+        "instrument=bass,note=19": {
+            "model": "block/note_block"
+        },
+        "instrument=bass,note=20": {
+            "model": "block/note_block"
+        },
+        "instrument=bass,note=21": {
+            "model": "block/note_block"
+        },
+        "instrument=bass,note=22": {
+            "model": "block/note_block"
+        },
+        "instrument=bass,note=23": {
+            "model": "block/note_block"
+        },
+        "instrument=bass,note=24": {
+            "model": "block/note_block"
+        },
+        "instrument=basedrum,note=0": {
+            "model": "block/note_block"
+        },
+        "instrument=basedrum,note=1": {
+            "model": "block/note_block"
+        },
+        "instrument=basedrum,note=2": {
+            "model": "block/note_block"
+        },
+        "instrument=basedrum,note=3": {
+            "model": "block/note_block"
+        },
+        "instrument=basedrum,note=4": {
+            "model": "block/note_block"
+        },
+        "instrument=basedrum,note=5": {
+            "model": "block/note_block"
+        },
+        "instrument=basedrum,note=6": {
+            "model": "block/note_block"
+        },
+        "instrument=basedrum,note=7": {
+            "model": "block/note_block"
+        },
+        "instrument=basedrum,note=8": {
+            "model": "block/note_block"
+        },
+        "instrument=basedrum,note=9": {
+            "model": "block/note_block"
+        },
+        "instrument=basedrum,note=10": {
+            "model": "block/note_block"
+        },
+        "instrument=basedrum,note=11": {
+            "model": "block/note_block"
+        },
+        "instrument=basedrum,note=12": {
+            "model": "block/note_block"
+        },
+        "instrument=basedrum,note=13": {
+            "model": "block/note_block"
+        },
+        "instrument=basedrum,note=14": {
+            "model": "block/note_block"
+        },
+        "instrument=basedrum,note=15": {
+            "model": "block/note_block"
+        },
+        "instrument=basedrum,note=16": {
+            "model": "block/note_block"
+        },
+        "instrument=basedrum,note=17": {
+            "model": "block/note_block"
+        },
+        "instrument=basedrum,note=18": {
+            "model": "block/note_block"
+        },
+        "instrument=basedrum,note=19": {
+            "model": "block/note_block"
+        },
+        "instrument=basedrum,note=20": {
+            "model": "block/note_block"
+        },
+        "instrument=basedrum,note=21": {
+            "model": "block/note_block"
+        },
+        "instrument=basedrum,note=22": {
+            "model": "block/note_block"
+        },
+        "instrument=basedrum,note=23": {
+            "model": "block/note_block"
+        },
+        "instrument=basedrum,note=24": {
+            "model": "block/note_block"
+        },
+        "instrument=snare,note=0": {
+            "model": "block/note_block"
+        },
+        "instrument=snare,note=1": {
+            "model": "block/note_block"
+        },
+        "instrument=snare,note=2": {
+            "model": "block/note_block"
+        },
+        "instrument=snare,note=3": {
+            "model": "block/note_block"
+        },
+        "instrument=snare,note=4": {
+            "model": "block/note_block"
+        },
+        "instrument=snare,note=5": {
+            "model": "block/note_block"
+        },
+        "instrument=snare,note=6": {
+            "model": "block/note_block"
+        },
+        "instrument=snare,note=7": {
+            "model": "block/note_block"
+        },
+        "instrument=snare,note=8": {
+            "model": "block/note_block"
+        },
+        "instrument=snare,note=9": {
+            "model": "block/note_block"
+        },
+        "instrument=snare,note=10": {
+            "model": "block/note_block"
+        },
+        "instrument=snare,note=11": {
+            "model": "block/note_block"
+        },
+        "instrument=snare,note=12": {
+            "model": "block/note_block"
+        },
+        "instrument=snare,note=13": {
+            "model": "block/note_block"
+        },
+        "instrument=snare,note=14": {
+            "model": "block/note_block"
+        },
+        "instrument=snare,note=15": {
+            "model": "block/note_block"
+        },
+        "instrument=snare,note=16": {
+            "model": "block/note_block"
+        },
+        "instrument=snare,note=17": {
+            "model": "block/note_block"
+        },
+        "instrument=snare,note=18": {
+            "model": "block/note_block"
+        },
+        "instrument=snare,note=19": {
+            "model": "block/note_block"
+        },
+        "instrument=snare,note=20": {
+            "model": "block/note_block"
+        },
+        "instrument=snare,note=21": {
+            "model": "block/note_block"
+        },
+        "instrument=snare,note=22": {
+            "model": "block/note_block"
+        },
+        "instrument=snare,note=23": {
+            "model": "block/note_block"
+        },
+        "instrument=snare,note=24": {
+            "model": "block/note_block"
+        },
+        "instrument=hat,note=0": {
+            "model": "block/note_block"
+        },
+        "instrument=hat,note=1": {
+            "model": "block/note_block"
+        },
+        "instrument=hat,note=2": {
+            "model": "block/note_block"
+        },
+        "instrument=hat,note=3": {
+            "model": "block/note_block"
+        },
+        "instrument=hat,note=4": {
+            "model": "block/note_block"
+        }
+    }
+}

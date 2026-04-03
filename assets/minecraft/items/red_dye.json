@@ -1,0 +1,404 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/red_dye"
+        },
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/pumpkin_blank"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/pumpkin_smirk"
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/pumpkin_happy"
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/pumpkin_angry"
+                }
+            },
+            {
+                "threshold": 5,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/pumpkin_creeper"
+                }
+            },
+            {
+                "threshold": 6,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/pumpkin_smirk_lit"
+                }
+            },
+            {
+                "threshold": 7,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/pumpkin_happy_lit"
+                }
+            },
+            {
+                "threshold": 8,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/pumpkin_yellow"
+                }
+            },
+            {
+                "threshold": 9,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/pumpkin_red"
+                }
+            },
+            {
+                "threshold": 10,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/pumpkin_green"
+                }
+            },
+            {
+                "threshold": 11,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/gravestone_1"
+                }
+            },
+            {
+                "threshold": 12,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/gravestone_2"
+                }
+            },
+            {
+                "threshold": 13,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/gravestone_3"
+                }
+            },
+            {
+                "threshold": 14,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/gravestone_4"
+                }
+            },
+            {
+                "threshold": 15,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/candle_bunch"
+                }
+            },
+            {
+                "threshold": 16,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/spider_hanging"
+                }
+            },
+            {
+                "threshold": 17,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/spider_small"
+                }
+            },
+            {
+                "threshold": 18,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/jar_eyes"
+                }
+            },
+            {
+                "threshold": 19,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/jar_brain"
+                }
+            },
+            {
+                "threshold": 20,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/wall_bat"
+                }
+            },
+            {
+                "threshold": 21,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/wall_eyes"
+                }
+            },
+            {
+                "threshold": 22,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/bones_1"
+                }
+            },
+            {
+                "threshold": 23,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/bones_2"
+                }
+            },
+            {
+                "threshold": 24,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/pumpkin_held"
+                }
+            },
+            {
+                "threshold": 25,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/sweets_pile"
+                }
+            },
+            {
+                "threshold": 26,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/sweets_pumpkin"
+                }
+            },
+            {
+                "threshold": 27,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/pumpkin_burger"
+                }
+            },
+            {
+                "threshold": 28,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/pumpkin_burger_grill"
+                }
+            },
+            {
+                "threshold": 29,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/pumpkin_burger_large"
+                }
+            },
+            {
+                "threshold": 30,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/pumpkin_burger_menu"
+                }
+            },
+            {
+                "threshold": 31,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/pumpkin_burger_roof"
+                }
+            },
+            {
+                "threshold": 32,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/pumpkin_burger_sign"
+                }
+            },
+            {
+                "threshold": 33,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/web_large"
+                }
+            },
+            {
+                "threshold": 34,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/web_half"
+                }
+            },
+            {
+                "threshold": 35,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/web_corner"
+                }
+            },
+            {
+                "threshold": 36,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/web_corner_2"
+                }
+            },
+            {
+                "threshold": 37,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/skull_candle"
+                }
+            },
+            {
+                "threshold": 38,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/witches_cauldron"
+                }
+            },
+            {
+                "threshold": 39,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/hand_zombie"
+                }
+            },
+            {
+                "threshold": 40,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/hand_skeleton"
+                }
+            },
+            {
+                "threshold": 41,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/witch_broom"
+                }
+            },
+            {
+                "threshold": 42,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/sheet_ghost"
+                }
+            },
+            {
+                "threshold": 43,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/eye_bat"
+                }
+            },
+            {
+                "threshold": 44,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/eye_bat_2"
+                }
+            },
+            {
+                "threshold": 45,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/gargoyle"
+                }
+            },
+            {
+                "threshold": 46,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/black_cat_1"
+                }
+            },
+            {
+                "threshold": 47,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/black_cat_2"
+                }
+            },
+            {
+                "threshold": 48,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/tarantula"
+                }
+            },
+            {
+                "threshold": 49,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/coffin"
+                }
+            },
+            {
+                "threshold": 50,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/frankenstein_head"
+                }
+            },
+            {
+                "threshold": 51,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/frankenstein_hand"
+                }
+            },
+            {
+                "threshold": 52,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/bunting_pumpkin"
+                }
+            },
+            {
+                "threshold": 53,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/bunting_ghosts"
+                }
+            },
+            {
+                "threshold": 54,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/bunting_stars"
+                }
+            },
+            {
+                "threshold": 55,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/web_corner_bottom"
+                }
+            },
+            {
+                "threshold": 56,
+                "model": {
+                    "type": "model",
+                    "model": "block/f/hub_halloween/zucchinis_protest"
+                }
+            }
+        ]
+    }
+}

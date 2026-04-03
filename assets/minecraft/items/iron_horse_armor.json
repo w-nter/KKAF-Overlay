@@ -1,0 +1,733 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/leather_horse_armor",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
+        },
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:snowbolt/scarfs/scarfred",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:snowbolt/scarfs/scarforange",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:snowbolt/scarfs/scarfyellow",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:snowbolt/scarfs/scarfmint",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 5,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:snowbolt/scarfs/scarfgreen",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 6,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:snowbolt/scarfs/scarfteal",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 7,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:snowbolt/scarfs/scarfaqua",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 8,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:snowbolt/scarfs/scarfblue",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 9,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:snowbolt/scarfs/scarfpurple",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 10,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:snowbolt/scarfs/scarfpink",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 11,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/snowman_1",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 12,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/snowman_2",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 13,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/snowman_3",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 14,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/snowman_melted",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 15,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/toy_bear",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 16,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/toy_blocks",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 17,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/toy_car",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 18,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/toy_car_2",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 19,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/toy_chicken",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/wreath",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 21,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/bells",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 22,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/bells_leaves",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 23,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/candycane1",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 24,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/candycane2",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 25,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/lights_1",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 26,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/lights_2",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 27,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/lights_3",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 28,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/lights_4",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 29,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/panelbells",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 30,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/panelsnowflake",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 31,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/panelstar",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 32,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/peppermint",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 33,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/snow_mascot",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 34,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/snowflake_ornament",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 35,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/gumdrops_roof_r",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 36,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/gingerbread_wall",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 37,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/gingerbread_window_1",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 38,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/gingerbread_window_2",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 39,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/gingerbread_window_3",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 40,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/gumdrops_1",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 41,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/gumdrops_2",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 42,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/gumdrops_roof_l",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 43,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/minigame/present1",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 44,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/minigame/present2",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 45,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/minigame/present3",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 46,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/minigame/present4",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 47,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/minigame/present5",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 48,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/minigame/present6",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 49,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/minigame/present7",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 50,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/minigame/present8",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 51,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/minigame/present9",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 52,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/minigame/present10",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 53,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/bunch_1",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 54,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/bunch_2",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 55,
+                "model": {
+                    "type": "model",
+                    "model": "custom:christmas/bunch_3",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
