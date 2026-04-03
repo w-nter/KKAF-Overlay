@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+	     "type": "bitmap",
+	     "file": "minecraft:font/skyblockle.png",
+		 "height": 49,
+		 "ascent": 24,
+		 "chars": ["\uE001"]
+		}
+    ]
+}

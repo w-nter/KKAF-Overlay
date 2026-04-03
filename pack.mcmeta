@@ -1,17 +1,6 @@
 {
     "pack": {
-        "description": "BMCC Main Pack (KK Adjusted Version) - By LukeEXE & DrBrandini",
-        "pack_format": 64,
-		"sodium": { 
-		  "ignored_shaders": [ 
-		     "rendertype_cutout.json",
-		     "rendertype_cutout_mipped.json",
-		     "rendertype_solid.json",
-		     "rendertype_translucent.json",
-		     "rendertype_tripwire.json",
-		     "light.glsl",
-		     "fog.glsl"
-		    ]
-		}
+        "description": "KKAF overlay",
+        "pack_format": 64
     }
 }
