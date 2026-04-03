@@ -2,10 +2,10 @@
     "providers": [
         {
 	     "type": "bitmap",
-	     "file": "custom:skyblockle.png",
+	     "file": "minecraft:item/skyblockle.png",
 		 "height": 49,
 		 "ascent": 24,
-		 "chars": ["\uE679"]
+		 "chars": ["\uE001"]
 		}
     ]
 }
