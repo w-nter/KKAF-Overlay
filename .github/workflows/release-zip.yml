@@ -19,6 +19,6 @@ jobs:
         with:
           tag_name: latest
           name: latest
-          files: project.zip
+          files: kkaf.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
